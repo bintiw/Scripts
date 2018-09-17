@@ -1,3 +1,3 @@
 # Scripts
 
-Individual Scripts for simple tasks. 
+Individual scripts for simple tasks. 
