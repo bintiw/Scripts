@@ -2,9 +2,9 @@
 
 #AUTHOR: BINAYAK TIWARI
 #DATE:   06/27/2014
-#########################################################################
-#THIS SCRIPT CHECKS THE CONNECTION STATUS OF THE INTERNET#
-#########################################################################
+#############################################################################################################
+#THIS SCRIPT KILLS PROGRAM THAT ARE NOT RESPONDING, CAN BE USED FOR THE PROGRAMS THAT ARE RESPONDING AS WELL#
+#############################################################################################################
 
 echo "Enter program to kill: "
 read name
